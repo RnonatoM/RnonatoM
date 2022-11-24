@@ -1,6 +1,6 @@
 ### Hola todo bien? 😊
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=00BFFF" alt="RnonatoM"
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=F6F0F7&icon_color=C61206 &text_color=F6F0F7&bg_color=81279F" alt="Raimundo Nonato github stats" />
 
 Meios de comunicação:
 
