@@ -1,5 +1,7 @@
 ### Hola todo bien? 😊
 
+
+
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=C61206" alt="Raimundo Nonato github stats" />
 
 ## Meios de comunicação:  
