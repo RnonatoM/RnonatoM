@@ -2,8 +2,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raimundo+Nonato;I'm+23+years+old;I'm+from+Brazil;I'm+a+Stutent+in+Information+technology;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=000080&icon_color=000080&text_color=000080&bg_color=#000080" alt="Raimundo Nonato github stats" /><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=000080&text_color=000080&bg_color=#000080" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Raimundo;tenho+23+anos!;Sou+brasileiro,;Estudante+de+Tecnologia+da+Informação;Seja,+bem-vindo+ao+GitHub!+:%29)](https://git.io/typing-svg)
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Raimundo Nonato github stats" /><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=930513&height=120&section=header" />
 
