@@ -5,9 +5,16 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Raimundo;tenho+23+anos!;Sou+brasileiro,;Estudante+de+Tecnologia+da+Informação;Seja,+bem-vindo+ao+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Raimundo;tenho+23+anos!;Sou+brasileiro,;Estudante+de+Tecnologia+da+Informação;Seja,+bem-vindo+ao+GitHub!+:%29)](https://git.io/typing-svg)
 
 <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Raimundo Nonato github stats" /><img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
+</div>
+
+### Developing in:
+
+<div style="display: inline_block">
+<img align="center" alt="C" src="https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=C&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 <div align="center">
@@ -23,6 +30,6 @@
 
 ## Linguagens que  quero aprender : 
 <div style="display: inline_block"><br/>
-<img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="c" src="https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=c&logoColor=white" />
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
