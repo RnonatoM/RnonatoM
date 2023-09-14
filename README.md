@@ -1,4 +1,9 @@
-### Hola todo bien? 😊
+### Sobre me.. 
+### 💻 - Iniciante na área de programação!
+### 🎮 - Futuro designer de games!
+### 🚀 - Ao infinito e além!
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header" />
 
