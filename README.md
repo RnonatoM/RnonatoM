@@ -15,6 +15,7 @@
 <div style="display: inline_block">
 <img align="center" alt="C" src="https://img.shields.io/badge/C-0000FF?style=for-the-badge&logo=C&logoColor=white" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=Python&logoColor=white" />
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-00BFFF?style=for-the-badge&logo=Java&logoColor=white" />
 </div>
 
 <div align="center">
