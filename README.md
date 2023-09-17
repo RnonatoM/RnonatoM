@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Raimundo;tenho+23+anos!;Sou+brasileiro,;Estudante+de+Tecnologia+da+Informação;Seja,+bem-vindo+ao+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=RnonatoM&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
-<img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Raimundo Nonato github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=RnonatoM&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
+<img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Raimundo Nonato github stats" />
 
 ### Developing in:
 
