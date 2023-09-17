@@ -19,7 +19,7 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-00BFFF?style=for-the-badge&logo=Java&logoColor=white" />
 </div>
 
-<div align="center">
+<div align="right">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RnonatoM}/count.svg" /></p> 
 <br></div>
