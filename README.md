@@ -18,4 +18,8 @@
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-693dae?style=for-the-badge&logo=css&logoColor=black" />
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/RnonatoM/count.svg" /></p> 
+<br></div>
 
