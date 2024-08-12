@@ -2,14 +2,9 @@
 ### 💻 - Iniciante na área de programação!
 ### 🎮 - Futuro designer de games!
 ### 🚀 - Ao infinito e além!
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Raimundo;tenho+23+anos!;Sou+brasileiro,;Estudante+de+Tecnologia+da+Informação;Seja,+bem-vindo+ao+GitHub!+:%29)](https://git.io/typing-svg)
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=#0000FF&icon_color=00FFFF&text_color=00FFFF&bg_color=00FFFF" alt="Raimundo Nonato github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=#0000FF&text_color=0000FF&bg_color=0000FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=#0000FF&icon_color=00FFFF&text_color=00FFFF&bg_color=00FFFF" alt="Raimundo Nonato github stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=#0000FF&text_color=0000FF&bg_color=#0000FF" width="35%" height="35%"/>
 </div>
 
 ### Developing in:
