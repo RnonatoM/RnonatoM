@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=RnonatoM&show_icons=true&count_private=true&hide_border=true&title_color=#0000FF&icon_color=00FFFF&text_color=00FFFF&bg_color=00FFFF" alt="Raimundo Nonato github stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=#0000FF&text_color=0000FF&bg_color=#0000FF" width="39%" height="39%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RnonatoM&layout=compact&hide_border=true&title_color=#0000FF&text_color=0000FF&bg_color=#0000FF" width="40%" height="40%"/>
 </div>
 
 ### Principais habilidades:
