@@ -10,13 +10,14 @@
 
 ### Principais habilidades:
 <div style="display: inline_block">
-<img align="center" alt="C" src="https://img.shields.io/badge/C-808080?style=for-the-badge&logo=C&logoColor=white" />
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=Python&logoColor=white" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-744e3b?style=for-the-badge&logo=Java&logoColor=black" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the- badge&logo=javascript&logoColor=black" />
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF0000?style=for-the-badge&logo=html&logoColor=black" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-693dae?style=for-the-badge&logo=css&logoColor=black" />
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-A0522D?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+<img align="center" alt="C" src="https://img.shields.io/badge/C-363636?style=for-the-badge&logo=C&logoColor=white"/>
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-4B0082?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
